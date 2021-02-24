@@ -1,5 +1,4 @@
 # appTesteDaltonismo 
-:warning: This project is a prototype
 
 # Daltonismo 
 é uma perturbação da
