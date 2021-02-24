@@ -24,3 +24,8 @@ cores de uma pessoa:
   <img src="./app/src/main/res/drawable/visao29.png" width="145px" />
   <img src="./app/src/main/res/drawable/visao74.png" width="155px" />
 </p> 
+
+<p align="">
+  <img src="./app/src/main/res/drawable/main.png" width="187px" />
+  <img src="./app/src/main/res/drawable/teste.png" width="186px" />
+</p> 
